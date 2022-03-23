@@ -12,7 +12,7 @@ A segunda etapa tem como finalidade avaliar a automatização dos testes nos flu
 ## 1. Planejamento de Casos de Testes
 A Start é uma fintech que quer oferecer um novo produto para os seus clientes: uma conta corrente. A conta corrente é direcionada para empresas e com ela a cliente consegue fazer transferências internas e externas, pagamentos de boleto, compras com o cartão de débito e emitir boletos de cobrança. As telas na imagem anexa mostram o fluxo de abertura de conta no app que a Start espera lançar para os seus clientes.
 
-[IMAGEM](https://github.com/laspbr/Desafio-Banking/blob/master/88742049-8429b400-d117-11ea-80a0-b86f26ed20ab.png)
+[IMAGEM](https://github.com/laspbr/DESAFIO_QA_BACKEND/blob/main/88742049-8429b400-d117-11ea-80a0-b86f26ed20ab.png)
 
 Seu desafio nessa etapa é criar um planejamento dos casos de testes que você julgar necessário para ter o fluxo de abertura de conta bem testado. 
 
